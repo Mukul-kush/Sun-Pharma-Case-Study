@@ -1,1 +1,2 @@
 # Sun-Pharma-Case-Study
+The pharmaceutical company Sun Pharma is manufacturing a new batch of painkiller medications, which are due for testing. Around 80,000 new products are created and need to be tested for their time of effect (which is measured as the time taken for the medicine to show effects) as well as quality assurance (which tells you whether the medicine was able to do a satisfactory job).
